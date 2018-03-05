@@ -57,9 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
-<<<<<<< HEAD
 # Parcel directories
 .cache
 dist
-=======
->>>>>>> 7003e0f3c5aaf39c6585c58db6347b8f91de4525
